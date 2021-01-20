@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-toe-64ffc": {
+      "hosting": {
+        "tic-tac-toe-example": [
+          "tic-tac-toe-64ffc"
+        ]
+      }
+    }
+  }
+}
