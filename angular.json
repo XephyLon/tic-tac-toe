@@ -33,7 +33,7 @@
             ],
             "styles": [
               "src/styles.sass",
-              "src/theme.scss"
+              "src/styles.scss"
             ],
             "scripts": []
           },
@@ -56,7 +56,7 @@
                 {
                   "type": "initial",
                   "maximumWarning": "500kb",
-                  "maximumError": "1mb"
+                  "maximumError": "2mb"
                 },
                 {
                   "type": "anyComponentStyle",
